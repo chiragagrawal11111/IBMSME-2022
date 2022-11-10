@@ -17,3 +17,5 @@ Talend Open Studio - Opwn - Source
 
 
 ETL -  Talend Open Studio for Data Integration
+## Day 2  10-November-2022
+Work Flow
